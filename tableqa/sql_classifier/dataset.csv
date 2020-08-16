@@ -240,7 +240,7 @@
 239,What is the average number of goals scored by ronaldo in a match,avg
 240,What is the height of the shortest Mr.Olympia,min
 241,What is the weight of the heaviest Mr. India,max
-242,what is the least possible value of charge,min
+242,what is the least rent per month in mumbai,min
 243,what is the length of the largest crocodile ever found,max
 244,what is the highest age a person has lived,max
 245,what is the speed of world fastest car,max
@@ -284,12 +284,12 @@
 283,What is the maximum length of a saree,max
 284,What is the minimum length of a book,min
 285,What is the most number of albums sold by a music artist,max
-286,What is the maximum salary of a doctor,max
+286,What is the maximum salary of a doctor ,max
 287,What is the average lifespan of RCC structures,avg
 288,What is the maximum speed limit in a Formula I race,max
 289,What is the average height of men in Afghanistan,avg
 290,What is the average life expectancy of a golden retriever,avg
-291,On an average how long does a German Shepherd dog live,avg
+291,What is the average lifespan of a German Shepherd live,avg
 292,What is the average age difference between and indian husband and wife,avg
 293,What is the mean GPA of all the students of CET,avg
 294,What is the maximum runs a person can score off a ball in a cricket match,max
