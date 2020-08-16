@@ -26,7 +26,7 @@
 24,What is the origin of the name ` Scarlett ' ?,desc
 25,What 's the second-most-used vowel in English ?,desc
 26,Who was the inventor of silly putty ?,desc
-27,What is the highest waterfall in the United States ?,desc
+27,What is the heiight of the highest waterfall in the United States ?,max
 28,Name a golf course in Myrtle Beach .,desc
 29,Which two states enclose Chesapeake Bay ?,desc
 30,What does the abbreviation AIDS stand for ?,desc
@@ -355,7 +355,7 @@
 354,What is the average thickness of lithosphere,avg
 355,What is length of the smallest river in the world,min
 356,What is the average spending of India on infrastructure,avg
-357,What is the minimum width of a domestic stairway,min
+357,How many goals did ronaldo score in this season,count
 358,What is the average IQ of males in India,avg
 359,Which is the gender having most death rate in 2011,max
 360,What is the highest casualty number recorded in WWII,max
@@ -396,3 +396,4 @@
 395,Which is the smallest state in USA,min
 396,Which is the smallest state in India,min
 397,Which is the largest state in USA,max
+398,what is the number of goals scored by messi this in season,count
