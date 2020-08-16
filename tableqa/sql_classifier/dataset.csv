@@ -397,3 +397,69 @@
 396,Which is the smallest state in India,min
 397,Which is the largest state in USA,max
 398,what is the number of goals scored by messi this in season,count
+399,What is the average age of the employees in Amazon,avg
+400,What is the age of the oldest employee in CET,max
+401,What is the height of tallest student in CET,max
+402,What is the average area of houses in lane 10,avg
+403,What is the price of the cheapest honda car,min
+404,What is the maximum number of goals scored by ronaldo in a season, max
+405,What is the average weight of a newborn baby,avg
+406,What is the average number of visits youtube guest in a day,avg
+407,What is the average price of a fitness band,avg
+408,What is the average speed of broadband in India,avg
+409,What is the average screen time on a phone per day,avg
+410,What is the highest price for shampoo,max
+411,What is the average shoe size for a man,avg
+412,What is the highest number of likes ever recorded in youtube,max
+413,Find the average BMI of men in India,avg
+414,Find the average height of buildings in Kerala,avg
+415,What is the highest temperature recorded in January 2019 in Kerala,max
+416,Find the average water consumption per person per day,avg
+417,What is the average income of an engineer in Kerala,avg
+418,Find the average consumption for electricity per month for a household,avg
+419,What is the largest size of a painting ever made,max
+420,Find the average price for a camera,avg
+421,Find the average diameter of bottle cap,avg
+422,What is the average price of beard oil,avg
+423,What is the highest price of beard brush,max
+424,What is the length of the longest beard ever,max
+425,What is the maximum runs scored by a player in IPL 2019,max
+426,What is the average no of views that Billie Ellish gets for a youtube video,avg
+427,What is the maximum recorded Richter scale value,max
+428,What is the maximum rise in corona virus cases recorded in a day,max
+429,What is the average instore purchase recorded at a Puma store in a day,avg
+430,What is the maximum shoe size that a company offers,max
+431,What is the average price of a bottled water,avg
+432,What is the maximum no of goals that Messi has scored in a football match,max
+433,What is the average no of goals scored by a team in a Laliga match,avg
+434,What is the minimum time recorded for the first goal in a football match,min
+435,What is the average retirement age of a football player,avg
+436,What is the maximum no of failed goal attempts in a football match,max
+437,What is the average no of own goals recorded in a football game,avg
+438,What is the maximum no of off side goals recorded in a football match,max
+439,What is the average no of yellow card fouls given in a football match,avg
+440,What is the highest no of red cards received by a football player,max
+441,What is the maximum spectator attendance recorded in a football match,max
+442,What is the average no of goal saves by Terstegen,avg
+443,What is the maximum no of models in a Victoria Secrets runaway,max
+444,What is average no of newspapers published on a monthly basis,avg
+445,What is the maximum no of pages in a book,max
+446,What is the average salary of a football player,avg
+447,What is the maximum match time recorded in a tennis game,max
+448,What is the highest IQ recorded for a person,max
+449,What is average height of an African elephant, avg
+450,What is the maximum speed of cheetah recorded, max
+451,What is the maximum no of degrees offered by Oxford university, max
+452,What is the average speed of a Formula I race car,avg
+453,What is the least runs conceded by a bowler in a match in IPL 2018,min
+454,What is the longest six scored in an IPL match,max
+455,What is the average rainfall recorded in Kerala in the month of August,avg
+456,What is the height of the shortest faculty in Cet,min
+457,What is the average boundaries scored in a match in IPL 2019,avg
+458,What is the maximum runs scored by an opener in any IPL match,max
+459,What is the minimum runs scored by an opener in any IPL match,min
+460,What is the maximum marks obtained by a Keralite student in CBSE 12th in English,max
+461,What is the most wickets secured by an all rounder in 2019,max
+462,What is the most wickets secured by any team in powerplay in IPL 2018,max
+463,What is the average runs scored in powerplay in IPL 2019,avg
+464,What is the maximum runs scored in an over by any team in calender year 2019,max
